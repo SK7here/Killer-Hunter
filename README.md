@@ -1,3 +1,5 @@
+# KILLER HUNTERS - Solving a murder mystery
+
 ## Inspiration
 - Though fictional, everyone would have at some point of time during childhood dreamt of becoming Sherlock Holmes. To gain that remarkable power of deduction and acute mental abilities. As a group of friends we find ourselves indulged in playing the boardgame called, Clue. From the description of each cast of the game to the weapons used, everything excites us (and million others! :).
 
